@@ -1,4 +1,5 @@
-void testfunction()
+﻿void testfunction()
 {
-	printf("�e�X�g");
+	printf("test");
+	わたしはいきる
 }
